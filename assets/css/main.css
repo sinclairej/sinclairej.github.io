@@ -2079,11 +2079,11 @@ input, select, textarea {
 
 			#nav a:hover {
 				color: #fff !important;
-				background: #F63C71;
+				background: #282828;
 			}
 
 			#nav a.active {
-				background: #484848;
+				background: #F63C71;
 			}
 
 				#nav a.active:before {
