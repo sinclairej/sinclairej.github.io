@@ -2009,7 +2009,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #900C3F;
+			background-color: #303030;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -2023,7 +2023,7 @@ input, select, textarea {
 			.wrapper.style4 form select,
 			.wrapper.style4 form textarea {
 				border: none;
-				background: #581845;
+				background: #282828;
 			}
 
 				.wrapper.style4 form input[type=text]:focus,
@@ -2036,7 +2036,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #581845;
+		background-color: #900C3F;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2079,11 +2079,11 @@ input, select, textarea {
 
 			#nav a:hover {
 				color: #fff !important;
-				background: #6D2157;
+				background: #AF104D;
 			}
 
 			#nav a.active {
-				background: #6D2157;
+				background: #AF104D;
 			}
 
 				#nav a.active:before {
