@@ -2009,7 +2009,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color: #900C3F;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -2079,7 +2079,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				color: #fff !important;
-				background: #282828;
+				background: #6D2157;
 			}
 
 			#nav a.active {
