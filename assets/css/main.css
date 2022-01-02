@@ -2506,6 +2506,14 @@ input, select, textarea {
 					color: #272833 !important;
 					text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
 				}
+/* myicon */
+
+	.myicon{
+		border-radius: 50%;
+	}
+		.myicon img{
+			border-radius: 50%;
+		}
 
 /* Image */
 
