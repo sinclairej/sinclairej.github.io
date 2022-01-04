@@ -3450,10 +3450,17 @@ input, select, textarea {
 	}
 
 	body.landing #header {
-		background: transparent;
+		background: rgba(39, 40, 51, 0.6);
+		/* background: transparent; */
 		box-shadow: none;
 		position: absolute;
 	}
+
+	/* Button active */
+	/* .btn:active, .btn.active {
+		-webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.16);
+		box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.16);
+	} */
 
 /* Banner */
 
